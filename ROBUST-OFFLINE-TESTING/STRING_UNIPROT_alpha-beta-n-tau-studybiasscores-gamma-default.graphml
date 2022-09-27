@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="node" attr.name="connected_components_id" attr.type="long"/>
+<key id="d3" for="node" attr.name="trees" attr.type="string"/>
+<key id="d2" for="node" attr.name="nrOfOccurrences" attr.type="long"/>
+<key id="d1" for="node" attr.name="significance" attr.type="double"/>
+<key id="d0" for="node" attr.name="isSeed" attr.type="boolean"/>
+<graph edgedefault="undirected"><node id="P19256">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P21554">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P01574">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P06276">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P01911">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="O75508">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P01920">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P19320">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P43121">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="O60333">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P78508">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P18510">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P29466">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P22301">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="Q96P20">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="Q06330">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P11473">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P05362">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="Q13191">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="O43557">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P01579">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P16581">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P19438">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P02774">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P13232">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P01903">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="Q14765">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="Q02556">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P01189">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="P02649">
+  <data key="d0">True</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<edge source="P19256" target="P02649"/>
+<edge source="P21554" target="P02649"/>
+<edge source="P01574" target="P02649"/>
+<edge source="P06276" target="P02649"/>
+<edge source="P01911" target="P02649"/>
+<edge source="O75508" target="P16581"/>
+<edge source="O75508" target="P78508"/>
+<edge source="P01920" target="P02649"/>
+<edge source="P19320" target="P02649"/>
+<edge source="P43121" target="P02649"/>
+<edge source="O60333" target="P22301"/>
+<edge source="P18510" target="P02649"/>
+<edge source="P29466" target="P02649"/>
+<edge source="P22301" target="P02649"/>
+<edge source="Q96P20" target="P02649"/>
+<edge source="Q06330" target="P02649"/>
+<edge source="P11473" target="P02649"/>
+<edge source="P05362" target="P02649"/>
+<edge source="Q13191" target="Q14765"/>
+<edge source="O43557" target="P02649"/>
+<edge source="P01579" target="P02649"/>
+<edge source="P16581" target="P02649"/>
+<edge source="P19438" target="P02649"/>
+<edge source="P02774" target="P02649"/>
+<edge source="P13232" target="P02649"/>
+<edge source="P01903" target="P02649"/>
+<edge source="Q14765" target="P02649"/>
+<edge source="Q02556" target="P02649"/>
+<edge source="P01189" target="P02649"/>
+</graph></graphml>
